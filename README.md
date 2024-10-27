@@ -1,2 +1,2 @@
 # estudo
-Todo conteúdo de estudo e exercícios
+Todo conteúdo de estudo e exercícios.
